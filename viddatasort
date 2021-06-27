@@ -14,7 +14,24 @@
       "a": "Nihal",
       "s": 1,
       "d": 600,
-      "c": 2
+      "c": 1
       }
-    ]
+    ],
+    "subtopics":[
+     {
+      "id": 101,
+      "name": "Upper Limb",
+      "sub": 1
+    },
+     {
+      "id": 102,
+      "name": "Lower Limb",
+      "sub": 1
+    },
+     {
+      "id": 301,
+      "name": "Heart",
+      "sub": 3
+    }
+ ]
 }

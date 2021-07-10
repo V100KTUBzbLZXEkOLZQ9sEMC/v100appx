@@ -1,10 +1,16 @@
-{"items":[
+[
 {
  "T": "Premium Plan",
- "D":"",
+ "D":"Nothing Much.. It's Premium",
  "ID":1,
  "AMOUNT": 100,
  "SUB": "20102001"
+},
+{
+ "T": "Standard Plan",
+ "D":"<ul><li>Daily Questions</li><li>Free Notes</li></ul>",
+ "ID":1,
+ "AMOUNT": 50,
+ "SUB": "20102001"
 }
 ]
-}
